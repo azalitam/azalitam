@@ -9,3 +9,4 @@ education:
 ]
 Stay Tuned...
 ```
+![Snake animation](https://github.com/azalitam/azalitam/blob/output/github-contribution-grid-snake.svg)
